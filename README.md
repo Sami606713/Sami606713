@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sami-ullah-6326b9265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sami-ullah-6326b9265" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/samiullaheng12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/samiullaheng12" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sami606713/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sami606713/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sami-ullah-6326b9265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sami-ullah-6326b9265/" height="30" width="40" /></a>
+<a href="https://kaggle.com/samiullaheng12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="/samiullaheng12" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sami606713/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="/sami606713/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
