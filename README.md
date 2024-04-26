@@ -10,6 +10,7 @@
 - Build a model on customer review so that the model tell us about the review that is positive, negative or neutral [Sentiment Analysis](https://sentimntanalysis.streamlit.app/)
 
 - 🤝 Make a chat bot just like chat gpt [Chat-Gpt Clone](https://github.com/Sami606713/Chat_Gpt_Clone)
+- cookie-cutter: `cookiecutter -c v1 https://github.com/drivendata/cookiecutter-data-science`
 
 - 📫 How to reach me **sami606713@gmail.com**
 
