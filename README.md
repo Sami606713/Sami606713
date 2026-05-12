@@ -23,7 +23,7 @@
 ```python
 class Samiullah:
     role        = "AI Engineer & Machine Learning Specialist"
-    experience  = "16+ months · Production AI Systems"
+    experience  = "2+ · Production AI Systems"
     education   = "BS Computer Science · University of Haripur (2022-2026)"
     location    = "Pakistan"
 
